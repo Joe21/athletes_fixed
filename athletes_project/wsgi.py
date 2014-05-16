@@ -14,10 +14,7 @@ framework.
 
 """
 import os
-# Heroku deployment additions
-from django.core.wsgi import get_wsgi_application
-from dj_static import Cling
-# End heroku deployment additions
+
 
 application = Cling(get_wsgi_application())
 
