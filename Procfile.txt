@@ -1,0 +1,1 @@
+web: gunicorn athletes_project.wgi

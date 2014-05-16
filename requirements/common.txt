@@ -1,0 +1,4 @@
+# requirements/common.txt
+Django==1.5
+django-bootstrap3==4.4.1
+wsgiref==0.1.2
