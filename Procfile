@@ -1,1 +1,1 @@
-web: gunicorn athletes_project.wgi
+web: gunicorn athletes_project.wsgi
